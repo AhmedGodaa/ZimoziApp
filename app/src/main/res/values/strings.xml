@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ZimoziApp</string>
+    <string name="zimozi">zimozi</string>
+    <string name="tennisapplication">TennisApplication</string>
+    <string name="player_description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis  </string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="hello_ahmed">Hello Ahmed</string>
+    <string name="search_text">Search of a league, team, players, etc.</string>
+    <string name="players">Players</string>
+    <string name="top_transfers">Top Transfers</string>
+    <string name="ahmed_ali">Ahmed Ali</string>
+    <string name="forward">Forward</string>
+    <string name="_11_50_00_00">11,50,00,00</string>
+</resources>
